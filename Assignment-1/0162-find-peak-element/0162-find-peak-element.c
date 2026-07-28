@@ -10,5 +10,5 @@ int findPeakElement(int* nums, int numsSize) {
             right = mid;
     }
 
-    return left;   // or right, both are the peak index
+    return left;
 }
